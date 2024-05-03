@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**RustChainBuilder/RustChainBuilder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I AM A PASSIONATE & SELF-MOTIVATED SENIOR RUST ENGINEER WITH 9+ YEARS OF EXPERIENCE IN BACKEND AND BLOCKCHAIN DEVELOPMENT.
 
-Here are some ideas to get you started:
+## SKILLS SUMMARY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❖	Rust-based Smart Contract Engineering.
+❖	Rust-based Blockchain Infrastructure Engineering.
+❖	Rust-based Backend Engineering.
+❖	Rust-based Cryptographic Algorithms and Protocols.
+❖	Rust-based Security Audit.
+❖	Typescript-based Frontend Integration.
+❖	Typescript-based Unit Tests.
+❖	React-based Smart Contract Integration.
+❖	GitHub-based Version Controlling.
+❖	SQL/NoSQL-based Database Management.
+❖	AWS-based Cloud Service Management. 
+
+## I am open to : 
+
+❖	any collaboration work.
+❖	Rust based blockchain startup companies.
+❖	Cryptography based projects. 
