@@ -3,7 +3,7 @@
 
 I am a passionate & self-motivated senior rust engineer with 9+ years of experience in backend and blockchain development.
 
-**Skills Summary : **:
+**Skills Summary**:
 - Rust-based Smart Contract Engineering.
 - Rust-based Blockchain Infrastructure Engineering.
 - Rust-based Backend Engineering.
